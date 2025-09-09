@@ -31,19 +31,6 @@ To run this project, you can use Google Colab, which allows you to execute the J
 ## Running the Notebooks
 The notebook in the `notebooks/` folder provides a portfolio optimization.
 
-- `notebooks/analysis_loan_portfolio.ipynb`: Analyzes loan portfolio data from `data/raw/dataset_1.csv` and performs valuation.
-- `notebooks/exploratory_analysis.ipynb`: Performs exploratory data analysis on the loan portfolio datasets.
-
-To run a notebook:
-1. Install Jupyter if it's not already installed:
-    ```bash
-    pip install jupyter
-    ```
-2. Start the Jupyter notebook server:
-    ```bash
-    jupyter notebook
-    ```
-3. Open the desired notebook from the `notebooks/` folder.
 
 ## Data Files
 The project uses datasets stored in the `data/` folder.
