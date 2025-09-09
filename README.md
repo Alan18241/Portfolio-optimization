@@ -35,20 +35,7 @@ The notebook in the `notebooks/` folder provides a portfolio optimization.
 ## Data Files
 The project uses datasets stored in the `data/` folder.
 
-- `data/raw/`: Contains the original datasets used for analysis.
-- `data/processed/`: Contains datasets that have been cleaned or transformed.
- 
-Example: 
-- `dataset_1.csv`: Raw loan portfolio data used for valuation.
-- `processed_data_1.csv`: Cleaned dataset used for model training.
 
-## Utility Scripts
-The `src/` folder contains reusable Python functions for data cleaning, processing, and visualization.
-
-- `utils.py`: A collection of helper functions used across multiple notebooks.
-
-## Results and Reports
-The final analysis and conclusions are documented in the `reports/` folder.
 
 - `final_report.md`: A summary of the loan portfolio valuation findings and recommendations.
 
