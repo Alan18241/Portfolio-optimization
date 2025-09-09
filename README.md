@@ -37,7 +37,3 @@ The project uses datasets stored in the `data/` folder.
 
 
 
-- `final_report.md`: A summary of the loan portfolio valuation findings and recommendations.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
